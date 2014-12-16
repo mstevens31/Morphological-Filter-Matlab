@@ -8,3 +8,5 @@ This project contains 3 functions: fastMorphFilt, fastClose, fastOpen.  fastClos
 
 fastMorphFilter perfoms opening and closing operations and performs a weighted combination of the output.
 
+Refer to code for fastMorphFilt for description of function use
+
